@@ -1,0 +1,17 @@
+[
+    {
+        "id": "I1",
+        "name": "Madhuri",
+        "age": 18,
+        "country": "India",
+        "hobby": "Watching Criket"
+    },
+    {
+        "id": "I0",
+        "name": "Rishitha",
+        "age": 19,
+        "country": "US-Africa",
+        "hobby": "Watching Phone"
+    }
+   
+]
